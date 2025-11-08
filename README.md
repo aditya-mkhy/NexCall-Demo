@@ -1,4 +1,4 @@
-# ⚡ NexCall-Demo
+#  NexCall-Demo
 
 > 🚀 *A glimpse into the future of communication intelligence.*
 
