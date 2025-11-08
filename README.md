@@ -52,7 +52,7 @@ Follow this repo for updates, teasers, and official release notes.
 
 ### 💡 Tagline
 
-> **NexCall** — Redefining trust, one call at a time.
+> **NexCall** — The next generation of calling intelligence.
 
 ---
 
